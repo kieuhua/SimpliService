@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "970417545698",
+    "firebase_url": "https://simpliservice.firebaseio.com",
+    "project_id": "simpliservice",
+    "storage_bucket": "simpliservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970417545698:android:2a4bc880676a8372",
+        "android_client_info": {
+          "package_name": "com.simpliservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970417545698-4l2ud02ecp474fjqjm8i3tofnlpmorkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYExh3JulAfRio4J4taqJGe0MOjaPbALA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
